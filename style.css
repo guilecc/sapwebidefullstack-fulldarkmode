@@ -104,3 +104,32 @@ div.sapUiSplitter {
     background-color: #525252;
 }
 
+div.sapMITBFilter.sapMITBFilterDefault.sapMITBItem.sapMITBItemNoCount.sapMITBVertical.sapWattNBItem.sapWattNBItemWithContextMenu {
+    border-color: #000000;
+}
+
+div.sapContrastPlus.sapMITBScrollable.sapMITH.sapMITHBackgroundDesignSolid.sapMITHOverflowList.wattTabStrip.sapMITBScrollForward.sapMITBScrollBack {
+    background-color: #030303;
+    color: #ffffff;
+}
+
+span.sapMITBArrowScroll.sapMITBArrowScrollLeftInLine.sapMITBArrowScrollLeftTextOnly.sapUiIcon.sapUiIconMirrorInRTL {
+    color: #ffffff;
+}
+
+span.sapMITBArrowScroll.sapMITBArrowScrollRightInLine.sapMITBArrowScrollRightTextOnly.sapUiIcon.sapUiIconMirrorInRTL {
+    color: #ffffff;
+}
+
+span.sapMBtnCustomIcon.sapMBtnIcon.sapMBtnIconLeft.sapUiIcon.sapUiIconMirrorInRTL {
+    color: #ffffff;
+}
+
+div.sapContrastPlus.sapMITBScrollForward.sapMITBScrollable.sapMITH.sapMITHBackgroundDesignSolid.sapMITHOverflowList.wattTabStrip.sapMITBNoScrollBack {
+    background-color: #000000;
+}
+
+div.sapContrastPlus.sapMITBScrollable.sapMITH.sapMITHBackgroundDesignSolid.sapMITHOverflowList.wattTabStrip.sapMITBScrollBack.sapMITBNoScrollForward {
+    background-color: #000000;
+}
+
