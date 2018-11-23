@@ -92,3 +92,15 @@ span.rdeRepositoryBrowserPrefixGitCommitted {
     color: #ffffff;
 }
 
+div.wattEditorArea {
+    background-color: #333333;
+}
+
+div.sapUiHSplitterFirstPane {
+    background-color: #2e2e2e;
+}
+
+div.sapUiSplitter {
+    background-color: #525252;
+}
+
