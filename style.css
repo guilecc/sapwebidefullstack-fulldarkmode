@@ -1,0 +1,94 @@
+span.sapUiBtnIco.sapUiIcon.sapUiIconMirrorInRTL {
+    color: #ffffff;
+}
+
+div.sapUiTbInner {
+    background-color: #757575;
+}
+
+div.sapMITBScrollContainer {
+    background-color: #474747;
+}
+
+div.sapMITBText {
+    color: #ffffff;
+}
+
+div.sapUiTbInnerRight {
+    background-color: #8c8c8c;
+}
+
+div.sapUiTbCont.sapUiTbContLeft {
+    background-color: #7a7a7a;
+}
+
+div.sapUiTreeCont.sapUiTreeContScroll {
+    background-color: #404040;
+}
+
+li.sapUiTreeNode.sapUiTreeNodeExpanded.sapUiTreeNodeSelected {
+    background-color: #8c8c8c;
+}
+
+span.sapUiTreeNodeContent {
+    color: #ffffff;
+}
+
+li.sapUiTreeNode.sapUiTreeNodeCollapsed.sapUiTreeNodeSelected {
+    background-color: #878787;
+}
+
+li.sapUiTreeNode.sapUiTreeNodeCollapsed.wattTreeFolder {
+    background-color: #4d4d4d;
+    color: #ffffff;
+}
+
+div.sapUiTbCont {
+    background-color: #969696;
+}
+
+li.sapUiTreeNode.sapUiTreeNodeExpanded {
+    background-color: #7d7d7d;
+}
+
+li.sapUiTreeNode.sapUiTreeNodeSelected.wattTreeFile {
+    background-color: #1c1c1c;
+}
+
+li.sapUiTreeNode.wattTreeFile:hover {
+    background-color: #1c1c1c;
+}
+
+section.rightsidebar {
+    background-color: #4a4a4a;
+}
+
+li.sapUiTreeNode.wattTreeFolder.sapUiTreeNodeExpanded {
+    background-color: #3d3d3d;
+}
+
+div.sapUiVerticalSplitterBar {
+    background-color: #707070;
+    border-color: #000000;
+}
+
+.sapWattRepositoryBrowser .sapUiTreeNodeExpanded:before {
+    color: #ffffff;
+}
+
+.sapWattRepositoryBrowser .sapUiTreeNode:before {
+    color: #ffffff;
+}
+
+span.rdeRepositoryBrowserPrefixGitCommitted {
+    color: #ffffff;
+}
+
+.sapWattRepositoryBrowser .sapUiTreeNode.sapUiTreeNodeSelected .rdeRepositoryBrowserPrefixGitModified:after, .sapWattRepositoryBrowser .sapUiTreeNode.sapUiTreeNodeSelected .rdeRepositoryBrowserPrefixGitDeleted:after, .sapWattRepositoryBrowser .sapUiTreeNode.sapUiTreeNodeSelected .rdeRepositoryBrowserPrefixGitModifiedStaged:after, .sapWattRepositoryBrowser .sapUiTreeNode.sapUiTreeNodeSelected .rdeRepositoryBrowserPrefixGitStagedInitial:after, .sapWattRepositoryBrowser .sapUiTreeNode.sapUiTreeNodeSelected .rdeRepositoryBrowserPrefixGitStagedUntracked:after, .sapWattRepositoryBrowser .sapUiTreeNode.sapUiTreeNodeSelected .rdeRepositoryBrowserPrefixGitConflict:after, .sapWattRepositoryBrowser .sapUiTreeNode.sapUiTreeNodeSelected .rdeRepositoryBrowserPrefixGitConflict, .sapWattRepositoryBrowser .sapUiTreeNode.sapUiTreeNodeSelected .rdeRepositoryBrowserPrefixGitCommitted:after {
+    color: #ffffff;
+}
+
+.sapWattRepositoryBrowser .rdeRepositoryBrowserPrefixGitCommitted:after, .sapWattRepositoryBrowser .rdeRepositoryBrowserPrefixGitModified:after, .sapWattRepositoryBrowser .rdeRepositoryBrowserPrefixGitDeleted:after, .sapWattRepositoryBrowser .rdeRepositoryBrowserPrefixGitStagedInitial:after, .sapWattRepositoryBrowser .rdeRepositoryBrowserPrefixGitStagedUntracked:after, .sapWattRepositoryBrowser .rdeRepositoryBrowserPrefixGitConflict:after, .sapWattRepositoryBrowser .rdeRepositoryBrowserPrefixGitModifiedStaged:after {
+    color: #ffffff;
+}
+
