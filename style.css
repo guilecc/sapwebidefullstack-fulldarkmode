@@ -133,3 +133,7 @@ div.sapContrastPlus.sapMITBScrollable.sapMITH.sapMITHBackgroundDesignSolid.sapMI
     background-color: #000000;
 }
 
+div.sapMITBFilter.sapMITBFilterDefault.sapMITBItem.sapMITBItemNoCount.sapMITBVertical.sapWattNBItem.sapWattNBItemWithContextMenu.sapMITBSelected {
+    background-color: #5c5c5c;
+}
+
